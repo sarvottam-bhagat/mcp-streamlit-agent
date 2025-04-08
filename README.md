@@ -117,9 +117,3 @@ mcp-streamlit-agent/
 - MCP (Machine Control Protocol)
 - Requests (for API calls)
 - OpenWeatherMap API
-
-## License
-
-[MIT License](LICENSE)
-
----
