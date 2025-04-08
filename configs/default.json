@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "python",
+      "args": [
+        "adapters/weather_server.py"
+      ],
+      "transport": "stdio"
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y", "@executeautomation/playwright-mcp-server"
+      ],
+      "transport": "stdio"
+    }
+  }
+}
